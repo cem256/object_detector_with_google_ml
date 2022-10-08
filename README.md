@@ -4,9 +4,9 @@ A simple app that demonstrates the use of Google ML Kit in Flutter.
 
 ## Preview
 <p align='center'>
-    <img src="screenshots/1.jpeg" width="32%"/>
-    <img src="screenshots/2.jpeg" width="32%"/>
-    <img src="screenshots/3.jpeg" width="32%"/>
+    <img src="screenshots/first.jpeg" width="32%"/>
+    <img src="screenshots/second.jpeg" width="32%"/>
+    <img src="screenshots/third.jpeg" width="32%"/>
 
 </p>
 
